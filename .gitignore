@@ -1,3 +1,18 @@
+# MLflow local files
+mlruns/
+mlflow.db
+**/mlruns/
+**/mlflow.db
+
+# Local model artifacts
+models/
+**/models/
+
+# Python/Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
