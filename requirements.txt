@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+mlflow
+seaborn
+matplotlib
+pyarrow
+jupyter
+ipykernel
